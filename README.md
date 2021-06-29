@@ -5,6 +5,8 @@ Today I Learned
 >
 >+이해한 만큼만 직접 작성
 
+↑이거는 BlockQuote 방식
+
 ***
 <br/>
 
