@@ -6,5 +6,6 @@ Today I Learned
 >+이해한 만큼만 직접 작성
 ***
 <br/>
+> 1일차
 
 <hr/>
