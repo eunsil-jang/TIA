@@ -17,14 +17,17 @@
     자동완성 기능 변경방법 → " windows-preferences-java-editor-templates-sysout 찾아서 edit 클릭 - sop로 변경 - no 클릭 - apply and close "
 
 <hr/>
+
 # 1-17~19강
 ## 책의 소스와 강의자료 다운로드, 소스파일 가져오기, 내보내기
 
 <hr/>
+
 # 2-1~2강
 ## 화면에 글자 출력하기, 덧셈 뺄셈 계산하기
 
 <hr/>
+
 # 2-3강
 ##변수란? 변수의 선언과 저장
 1)변수란?(variable) = 하나의 값을 저장할 수있는 메모리 공간(=RAM)
@@ -49,6 +52,7 @@ int age ; // 정수(int)타입의 변수 age를 선언 //정수(integer)
 alt shift a 멀티컬럼 모드 설정해제 처리 
 
 <hr/>
+
 #2-4강
 ##변수의 타입
 1)변수란?(variable) = 하나의 값을 저장할 수있는 메모리 공간(=RAM)
