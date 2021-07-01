@@ -17,10 +17,12 @@
     자동완성 기능 변경방법 → " windows-preferences-java-editor-templates-sysout 찾아서 edit 클릭 - sop로 변경 - no 클릭 - apply and close "
 
 <hr/>
+
 # 1-17~19강<br>
 ## 책의 소스와 강의자료 다운로드, 소스파일 가져오기, 내보내기
 >
 <hr/>
+
 # 2-1~2강<br>
 ## 화면에 글자 출력하기, 덧셈 뺄셈 계산하기
 
