@@ -1,4 +1,4 @@
-데이터 베이스의 장점:보안/잘못된 데이터가 들어가는것을 방지하는것(무결성유지)
+데이터 베이스의 장점:보안/잘못된 데이터가 들어가는것을 방지하는것(무결성유지) <br>
 -ex)주민번호,학번...
 
 <hr/>
@@ -50,20 +50,20 @@
 <hr/>
 
 ##### p.155 
-1. create
-테이블 변경 : 새로운 칼럼 추가
-ALTER TABLE ...ADD 명령으로 새로운 칼럼추가
-MODIFY 
+1. create <br>
+테이블 변경 : 새로운 칼럼 추가 <br>
+ALTER TABLE ...ADD 명령으로 새로운 칼럼추가 <br>
+MODIFY <br>
 
 ##### P.156 예제1
-ALTER TABLE DROP COLUMN ~~
+ALTER TABLE DROP COLUMN ~~ <br>
 
-1)테이블 만들고 
-→CREATE TABLE 테이블명
-  (칼럼명 datatype [, 칼럼명 datatype,....])
-2)열추가하고 
-→
+1)테이블 만들고 <br>
+→CREATE TABLE 테이블명 <br>
+  (칼럼명 datatype [, 칼럼명 datatype,....]) <br>
+2)열추가하고  <br> 
+→ <br>
 
-
-3)열크기 변경하고 
-4)열 이름 변경하기
+ 
+3)열크기 변경하고 <br> 
+4)열 이름 변경하기 <br>
